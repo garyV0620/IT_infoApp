@@ -1,0 +1,23 @@
+.loginForm {
+    border-radius: 50px;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+    box-shadow:  31px 31px 62px #d9d9d9,
+                -31px -31px 62px #ffffff;
+    padding: 50px;
+}
+
+.navbar {
+    border-radius: 10px;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+    box-shadow:  31px 31px 62px #d9d9d9,
+                -31px -31px 62px #ffffff;
+    margin:10px 100px;
+}
+
+.listCrews, .crewForm, .crewInfo {
+    border-radius: 53px;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+    box-shadow:  5px 5px 12px #c9c9c9,
+             -5px -5px 12px #ffffff;
+    padding: 50px;
+}
